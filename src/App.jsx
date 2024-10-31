@@ -4,7 +4,8 @@ import { IoMdAdd } from "react-icons/io";
 import { HiMagnifyingGlass } from "react-icons/hi2";
 import './App.css'
 import { Addcontact } from './components/Addcontact';
-import { Modal } from './components/modal';
+import { Modal } from './components/Modal';
+
 
 function App() {
 
