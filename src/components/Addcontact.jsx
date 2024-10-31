@@ -4,7 +4,7 @@ import {db} from "../config/firebase";
 import { FaUser } from "react-icons/fa";
 import { MdDelete } from "react-icons/md";
 import { RiEditCircleFill } from "react-icons/ri";
-import { Modal } from "./modal";
+import { Modal } from "./Modal";
 
 
 
